@@ -4,7 +4,7 @@
 
 - 🧑‍💻Skills: Python,MySQL
 
-- 📜Qualifications: INF.02 – Database Administration and Application Programming
+- 📜Qualifications: IT Specialist (Technik informatyk) - specializing in database administration, application programming, and IT systems management.
 
 - 🔭 I’m currently working on this page. 
 
